@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="F:\project\android\Card\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_04ebd5be4fc1deac57340eddb991fde4583e64d4.jar" />
+    </item>
+    <item
+        jar="F:\project\android\Card\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="55e86f499f927cafbf00f2efe6a28304f0f60b09">
+        <dex dex="F:\project\android\Card\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_2c13864073b8e0592b87f0d8883619d65e93b300.jar" />
+    </item>
+    <item
+        jar="F:\project\android\Card\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c7aa2214dd1e772e17a9e9a3893870cdd5b41507">
+        <dex dex="F:\project\android\Card\app\build\intermediates\pre-dexed\debug\instant-run_ece9f7bd9694a70c62de556d774e847651f6ed3b.jar" />
+    </item>
+
+</items>

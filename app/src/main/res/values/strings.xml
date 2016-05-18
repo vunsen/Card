@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Card</string>
+    <string name="action_Edit">编辑名片</string>
+    <string name="action_Exit">退出</string>
+    <string name="action_Initial">恢复初始值</string>
+    <string name="action_Listing">列表视图</string>
+    <string name="action_CardAll">所有名片</string>
+    <string name="action_Delect">删除名片</string>
+    <string name="action_DelectAll">全部删除</string>
+    <string name="action_Return">返回主界面</string>
+    <string name="action_Send">发送名片</string>
+    <string name="action_Canvas">画布显示</string>
+    <string name="action_Save">保存</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="type_Name">姓 名:</string>
+    <string name="type_Title">头 衔:</string>
+    <string name="Name">钟旭斌</string>
+    <string name="Title">学生</string>
+    <string name="type_Address">地 址:</string>
+    <string name="type_Postcode">邮 编:</string>
+    <string name="type_Phone">电 话:</string>
+    <string name="type_Mailbox">邮 箱:</string>
+    <string name="Address">广东广州市中山大道西191号</string>
+    <string name="Postcode">510630</string>
+    <string name="Phone">18719360233</string>
+    <string name="Mailbox">545881413@qq.com</string>
+    <string name="type_Autograph">签 名:</string>
+    <string name="type_Homepage">主 页:</string>
+    <string name="Autograph">旅途中。</string>
+    <string name="Homepage">blog.sina.com.cn/u/2612270887</string>
+    <string name="Reset">重置</string>
+    <string name="photo">图 片：</string>
+    <string name="head">头 像：</string>
+    <string name="Cancel">取 消</string>
+    <string name="Confirm">确 定</string>
+    <string name="title">短信发送名片</string>
+    <string name="title_activity_main">名片信息</string>
+    <string name="title_activity_activity01">编辑</string>
+    <string name="title_activity_listing">Listing</string>
+    <string name="title_activity_car_case">CarCaseActivity</string>
+    <string name="title_activity_web_visit">WebVisit</string>
+    <string name="title_activity_start_acitivity">StartAcitivity</string>
+    <string name="certain">确定</string>
+    <string name="cancel">取消</string>
+    <string name="title_activity_cs">CsActivity</string>
+    <string name="title_activity_canvas">Canvas</string>
+	
+</resources>

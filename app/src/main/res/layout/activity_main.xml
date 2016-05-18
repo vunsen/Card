@@ -1,0 +1,188 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/re_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <TextView
+        android:id="@+id/Weather"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:id="@+id/img_logo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Weather"
+        android:layout_marginTop="5dp"
+        android:contentDescription="@string/app_name" />
+
+    <TextView
+        android:id="@+id/Name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/img_logo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="50dp"
+        android:textSize="30sp" />
+
+    <ImageView
+        android:id="@+id/img_me"
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:layout_alignBottom="@id/Name"
+        android:layout_toLeftOf="@id/Name"
+        android:contentDescription="@string/app_name" />
+
+    <TextView
+        android:id="@+id/Title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/Name"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@id/Name"
+        android:textColor="#00FFFF"
+        android:textSize="18sp" />
+
+    <LinearLayout
+        android:id="@+id/linear_Sum"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/img_me"
+        android:layout_below="@id/img_me"
+        android:layout_marginTop="45dp"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/linear_H01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/type_Address"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/type_Address"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/Address"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16sp" 
+                android:layout_marginLeft="10sp"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linear_H02"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/type_Postcode"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/type_Postcode"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/Postcode"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16sp" 
+                android:layout_marginLeft="10sp"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linear_H03"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/type_Phone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/type_Phone"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/Phone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16sp" 
+                android:layout_marginLeft="10sp"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linear_H04"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/type_Mailbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/type_Mailbox"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/Mailbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16sp" 
+                android:layout_marginLeft="10sp"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <TableLayout
+        android:id="@+id/table_01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/img_me"
+        android:layout_below="@id/linear_Sum" >
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/type_Autograph"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/type_Autograph"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/Autograph"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:textSize="16sp" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/type_Homepage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/type_Homepage"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/Homepage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:textSize="15sp"
+                android:textStyle="italic" />
+        </TableRow>
+    </TableLayout>
+
+</RelativeLayout>

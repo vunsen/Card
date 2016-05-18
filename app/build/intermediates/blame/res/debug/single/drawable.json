@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\project\\android\\Card\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\head.jpg",
+        "source": "F:\\project\\android\\Card\\app\\src\\main\\res\\drawable\\head.jpg"
+    },
+    {
+        "merged": "F:\\project\\android\\Card\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start.png",
+        "source": "F:\\project\\android\\Card\\app\\src\\main\\res\\drawable\\start.png"
+    },
+    {
+        "merged": "F:\\project\\android\\Card\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "F:\\project\\android\\Card\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "F:\\project\\android\\Card\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.jpg",
+        "source": "F:\\project\\android\\Card\\app\\src\\main\\res\\drawable\\back.jpg"
+    },
+    {
+        "merged": "F:\\project\\android\\Card\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo2.png",
+        "source": "F:\\project\\android\\Card\\app\\src\\main\\res\\drawable\\logo2.png"
+    },
+    {
+        "merged": "F:\\project\\android\\Card\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo1.png",
+        "source": "F:\\project\\android\\Card\\app\\src\\main\\res\\drawable\\logo1.png"
+    },
+    {
+        "merged": "F:\\project\\android\\Card\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo3.gif",
+        "source": "F:\\project\\android\\Card\\app\\src\\main\\res\\drawable\\logo3.gif"
+    },
+    {
+        "merged": "F:\\project\\android\\Card\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\me.jpg",
+        "source": "F:\\project\\android\\Card\\app\\src\\main\\res\\drawable\\me.jpg"
+    }
+]

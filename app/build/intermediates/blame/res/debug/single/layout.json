@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\project\\android\\Card\\app\\build\\intermediates\\res\\merged\\debug\\layout\\showdialog_smsentry.xml",
+        "source": "F:\\project\\android\\Card\\app\\src\\main\\res\\layout\\showdialog_smsentry.xml"
+    },
+    {
+        "merged": "F:\\project\\android\\Card\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\project\\android\\Card\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\project\\android\\Card\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_activity01.xml",
+        "source": "F:\\project\\android\\Card\\app\\src\\main\\res\\layout\\activity_activity01.xml"
+    },
+    {
+        "merged": "F:\\project\\android\\Card\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listing.xml",
+        "source": "F:\\project\\android\\Card\\app\\src\\main\\res\\layout\\activity_listing.xml"
+    },
+    {
+        "merged": "F:\\project\\android\\Card\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web_visit.xml",
+        "source": "F:\\project\\android\\Card\\app\\src\\main\\res\\layout\\activity_web_visit.xml"
+    },
+    {
+        "merged": "F:\\project\\android\\Card\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_canvas.xml",
+        "source": "F:\\project\\android\\Card\\app\\src\\main\\res\\layout\\activity_canvas.xml"
+    },
+    {
+        "merged": "F:\\project\\android\\Card\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_start_acitivity.xml",
+        "source": "F:\\project\\android\\Card\\app\\src\\main\\res\\layout\\activity_start_acitivity.xml"
+    },
+    {
+        "merged": "F:\\project\\android\\Card\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_carcase.xml",
+        "source": "F:\\project\\android\\Card\\app\\src\\main\\res\\layout\\activity_carcase.xml"
+    }
+]

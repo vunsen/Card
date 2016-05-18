@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\project\\android\\Card\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_web.xml",
+        "source": "F:\\project\\android\\Card\\app\\src\\main\\res\\menu\\main_web.xml"
+    },
+    {
+        "merged": "F:\\project\\android\\Card\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_cardall.xml",
+        "source": "F:\\project\\android\\Card\\app\\src\\main\\res\\menu\\main_cardall.xml"
+    },
+    {
+        "merged": "F:\\project\\android\\Card\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_activity01.xml",
+        "source": "F:\\project\\android\\Card\\app\\src\\main\\res\\menu\\main_activity01.xml"
+    },
+    {
+        "merged": "F:\\project\\android\\Card\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "F:\\project\\android\\Card\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\project\\android\\Card\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_canvas.xml",
+        "source": "F:\\project\\android\\Card\\app\\src\\main\\res\\menu\\main_canvas.xml"
+    }
+]

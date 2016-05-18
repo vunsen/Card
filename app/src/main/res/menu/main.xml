@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.gupt.example.helloandroid.MainActivity" >
+
+    <item
+        android:id="@+id/action_Edit"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_Edit"/>
+   <item
+        android:id="@+id/action_Send"
+        android:icon="@android:drawable/ic_menu_send"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_Send"/>
+    <item
+        android:id="@+id/action_Delect"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_Delect"/>
+    <item
+        android:id="@+id/action_CardAll"
+        android:icon="@android:drawable/ic_dialog_dialer"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_CardAll"/>
+    <item
+        android:id="@+id/action_Listing"
+        android:icon="@android:drawable/ic_menu_day"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_Listing"/>
+    <item
+        android:id="@+id/action_Canvas"
+        android:icon="@android:drawable/ic_menu_crop"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_Canvas"/>
+    <item
+        android:id="@+id/action_Initial"
+        android:icon="@android:drawable/ic_menu_rotate"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_Initial"/>
+    <item
+        android:id="@+id/action_Exit"
+        android:icon="@android:drawable/ic_menu_set_as"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_Exit"/>
+
+</menu>
